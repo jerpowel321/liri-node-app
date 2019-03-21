@@ -1,4 +1,4 @@
-# Liri Node App
+# Liri Node App :taurus:
 
 ## Welcome to my Liri Node App!
 
@@ -30,6 +30,9 @@
         - Date of the Event
     - If no artist is provided to Liri, than Liri will display the following message: *"You didn't type an artist :( Try Again! From the beginning."* 
     - The user is then returned to the first prompt.
+    
+See Demo:
+![Look up concert Demo](https://media.giphy.com/media/yNfH8AGUopyRbR8wQJ/giphy.mp4)
 
 2) On the second command, <b>Liri look up song!</b>
     - The user is prompted *"Give me a song :)"*
@@ -61,7 +64,9 @@
     - Using the fs Node package, LIRI will take the text inside of random.txt file and use it to call one of LIRI's commands.
         - Try using this command a few times to see some of the random songs Liri recommends.
 
-
+5) On the fith command, <b>Goodbye Liri :)</b>
+    - Liri will display the following message *"Goodbye Human! Have a fantastic day :)"*
+    - The user will exit out of the App
 
 ## Built With
 - JavaScript
