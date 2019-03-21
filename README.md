@@ -64,7 +64,7 @@
     - The user is then returned to the first prompt.
 
 #### See Demo of third command:
-<img src="https://media.giphy.com/media/8FSWgd2qTRlGtlKom/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/8FS4Wgd2qTRlGtlKom/giphy.gif" width="500">
 
 ) On the fourth command, <b>Liri Spotify a random song!</b>
     - Using the fs Node package, LIRI will take the text inside of random.txt file and use it to call one of LIRI's commands.
