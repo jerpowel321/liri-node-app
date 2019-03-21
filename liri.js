@@ -8,7 +8,6 @@ var moment = require("moment");
 var fs = require("fs");
 const chalk = require('chalk');
 
-console.log(chalk.blue('Hello world!'));
 
 function liri() {
 
