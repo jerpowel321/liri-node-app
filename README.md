@@ -66,7 +66,7 @@
 #### See Demo of third command:
 <img src="https://media.giphy.com/media/8FS4Wgd2qTRlGtlKom/giphy.gif" width="500">
 
-) On the fourth command, <b>Liri Spotify a random song!</b>
+4) On the fourth command, <b>Liri Spotify a random song!</b>
     - Using the fs Node package, LIRI will take the text inside of random.txt file and use it to call one of LIRI's commands.
         - Try using this command a few times to see some of the random songs Liri recommends.
 
@@ -81,7 +81,7 @@
 
 ## Built With
 - JavaScript
-- Node packages
+- NPM packages
     * Axios
     * Moment
     * Node-Spotify-Api
